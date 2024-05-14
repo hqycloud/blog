@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.hqycloud.top/uncategorized/cloudflare%20tunnel%E4%BC%98%E9%80%89IP/</loc>
+    
+    <lastmod>2024-05-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hqycloud.top/links/index.html</loc>
     
     <lastmod>2024-05-12</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://blog.hqycloud.top/</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -59,28 +68,28 @@
   
   <url>
     <loc>https://blog.hqycloud.top/categories/yhchat/</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hqycloud.top/categories/Termux/</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hqycloud.top/categories/chatgpt/</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hqycloud.top/categories/viqoo/</loc>
-    <lastmod>2024-05-13</lastmod>
+    <lastmod>2024-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
