@@ -5,8 +5,8 @@ https://blog.hqycloud.top/viqoo/%E5%85%B3%E4%BA%8Eviqoo%E5%B7%A5%E5%85%B7%E7%AE%
 https://blog.hqycloud.top/yhchat/Google%20Gemini%20Ai%20for%20yhchat/
 https://blog.hqycloud.top/Termux/%E4%BA%91%E5%B4%BDbot%E6%81%A2%E5%A4%8D%E5%8C%85%20--Termux/
 https://blog.hqycloud.top/
-https://blog.hqycloud.top/categories/yhchat/
 https://blog.hqycloud.top/categories/cloudflare/
+https://blog.hqycloud.top/categories/yhchat/
 https://blog.hqycloud.top/categories/Termux/
 https://blog.hqycloud.top/categories/chatgpt/
 https://blog.hqycloud.top/categories/viqoo/
