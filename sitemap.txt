@@ -1,4 +1,4 @@
-https://blog.hqycloud.top/uncategorized/%E5%85%8D%E8%B4%B9%E7%9A%84%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D(%E5%8F%AF%E7%BB%91cloudflare)/
+https://blog.hqycloud.top/domain/%E5%85%8D%E8%B4%B9%E7%9A%84%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D(%E5%8F%AF%E7%BB%91cloudflare)/
 https://blog.hqycloud.top/links/index.html
 https://blog.hqycloud.top/cloudflare/cloudflare%20tunnel%E4%BC%98%E9%80%89IP/
 https://blog.hqycloud.top/chatgpt/%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8chatGPT/
@@ -10,4 +10,5 @@ https://blog.hqycloud.top/categories/yhchat/
 https://blog.hqycloud.top/categories/cloudflare/
 https://blog.hqycloud.top/categories/Termux/
 https://blog.hqycloud.top/categories/chatgpt/
+https://blog.hqycloud.top/categories/domain/
 https://blog.hqycloud.top/categories/viqoo/

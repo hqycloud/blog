@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.hqycloud.top/uncategorized/%E5%85%8D%E8%B4%B9%E7%9A%84%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D(%E5%8F%AF%E7%BB%91cloudflare)/</loc>
+    <loc>https://blog.hqycloud.top/domain/%E5%85%8D%E8%B4%B9%E7%9A%84%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D(%E5%8F%AF%E7%BB%91cloudflare)/</loc>
     
     <lastmod>2024-05-17</lastmod>
     
@@ -98,6 +98,13 @@
   
   <url>
     <loc>https://blog.hqycloud.top/categories/chatgpt/</loc>
+    <lastmod>2024-05-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hqycloud.top/categories/domain/</loc>
     <lastmod>2024-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
