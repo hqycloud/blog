@@ -6,9 +6,9 @@ https://blog.hqycloud.top/posts/527a18f8
 https://blog.hqycloud.top/posts/bebafed8
 https://blog.hqycloud.top/posts/a1bc7431
 https://blog.hqycloud.top/
+https://blog.hqycloud.top/categories/yhchat/
 https://blog.hqycloud.top/categories/cloudflare/
 https://blog.hqycloud.top/categories/Termux/
-https://blog.hqycloud.top/categories/yhchat/
-https://blog.hqycloud.top/categories/chatgpt/
 https://blog.hqycloud.top/categories/domain/
+https://blog.hqycloud.top/categories/chatgpt/
 https://blog.hqycloud.top/categories/viqoo/
