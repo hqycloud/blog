@@ -76,13 +76,6 @@
 
   
   <url>
-    <loc>https://blog.hqycloud.top/categories/yhchat/</loc>
-    <lastmod>2024-05-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.hqycloud.top/categories/cloudflare/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,6 +90,13 @@
   </url>
   
   <url>
+    <loc>https://blog.hqycloud.top/categories/yhchat/</loc>
+    <lastmod>2024-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hqycloud.top/categories/chatgpt/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,14 +104,14 @@
   </url>
   
   <url>
-    <loc>https://blog.hqycloud.top/categories/viqoo/</loc>
+    <loc>https://blog.hqycloud.top/categories/domain/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.hqycloud.top/categories/domain/</loc>
+    <loc>https://blog.hqycloud.top/categories/viqoo/</loc>
     <lastmod>2024-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
