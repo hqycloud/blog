@@ -93,7 +93,9 @@
   fill: #d4d4d4;
 }
 
-.aplayer-icon {filter: invert(100%);}
+[data-theme="dark"]
+  button.aplayer-icon {filter: invert(100%);}
+}
 
 [data-theme="dark"] .aplayer .aplayer-list ol li:hover {
   background: var(--theme-color) !important;
