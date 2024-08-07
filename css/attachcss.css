@@ -27,3 +27,8 @@
     backdrop-filter: blur(5px);
   }
 }
+
+/* 页脚透明 */
+#footer{
+  background: transparent!important;
+}
