@@ -1,24 +1,28 @@
-/*所有页面实现毛玻璃特效*/
-#aside-content{
-    background: rgba(255,255,255,0);
+/* 默认主题 */
+#aside-content {
+  background: rgba(255, 255, 255, 0);
 }
 
-#aside-content > .card-widget:first-child {
-    background: rgba(255,255,255,0.5);
-    backdrop-filter: blur(10px);
-}
-
-#aside-content .card-widget {
-    background: rgba(255,255,255,0.5);
-    backdrop-filter: blur(10px);
-}
-
-.layout > div:first-child:not(.recent-posts) {
-    background: rgba(255,255,255,0.5);
-    backdrop-filter: blur(10px);
-}
-
+#aside-content > .card-widget:first-child,
+#aside-content .card-widget,
+.layout > div:first-child:not(.recent-posts),
 #recent-posts > .recent-post-item {
-    background: rgba(255,255,255,0.5);
-    backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+/* 夜间模式 */
+body.dark-mode {
+  /* 假设你的夜间模式类名为 "dark-mode" */
+  #aside-content {
+    background: rgba(20, 20, 20, 0.8);
+  }
+
+  #aside-content > .card-widget:first-child,
+  #aside-content .card-widget,
+  .layout > div:first-child:not(.recent-posts),
+  #recent-posts > .recent-post-item {
+    background: rgba(30, 30, 30, 0.7);
+    backdrop-filter: blur(5px);
+  }
 }
