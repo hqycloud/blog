@@ -84,6 +84,17 @@
   fill: #d4d4d4;
 }
 
+[data-theme="dark"]
+  .aplayer
+  .aplayer-info
+  .aplayer-controller
+  .aplayer-time
+  path {
+  fill: #d4d4d4;
+}
+
+.aplayer-icon path{fill: #000000;}
+
 [data-theme="dark"] .aplayer .aplayer-list ol li:hover {
   background: var(--theme-color) !important;
 }
