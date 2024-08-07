@@ -84,7 +84,7 @@
 }
 
 [data-theme="dark"]
-  .aplayer-icon {filter: invert(100%);}
+  .aplayer-icon {background: rgba(22, 22, 22, 0.6);}
 }
 
 [data-theme="dark"] .aplayer .aplayer-list ol li:hover {
