@@ -12,12 +12,11 @@
 }
 
 /* 夜间模式 */
-body.dark-mode {
-  /* 假设你的夜间模式类名为 "dark-mode" */
+[data-theme="dark"] { 
   #aside-content {
     background: rgba(20, 20, 20, 0.8);
   }
-
+  
   #aside-content > .card-widget:first-child,
   #aside-content .card-widget,
   .layout > div:first-child:not(.recent-posts),
