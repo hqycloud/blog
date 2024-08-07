@@ -37,7 +37,6 @@
 }
 
 .aplayer.aplayer-fixed .aplayer-miniswitcher {
-  background: rgba(22, 22, 22, 0.6);
   border-radius: 0 6px 6px 0 !important;
 }
 
@@ -85,6 +84,7 @@
 }
 
 [data-theme="dark"]
+  .aplayer-miniswitcher {background: rgba(22, 22, 22, 0.6);}
   .aplayer-icon {background: rgba(22, 22, 22, 0.6);}
 }
 
