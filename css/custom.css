@@ -84,7 +84,7 @@
 }
 
 [data-theme="dark"]
-  button.aplayer-icon {filter: invert(100%);}
+  .aplayer-icon {filter: invert(100%);}
 }
 
 [data-theme="dark"] .aplayer .aplayer-list ol li:hover {
