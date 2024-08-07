@@ -16,7 +16,9 @@
   #aside-content {
     background: rgba(20, 20, 20, 0.8);
   }
-  
+}
+
+[data-theme="dark"] {
   #aside-content > .card-widget:first-child,
   #aside-content .card-widget,
   .layout > div:first-child:not(.recent-posts),
